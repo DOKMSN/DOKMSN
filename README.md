@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DOKMSN
 - 👀 I’m interested in Tech News & Updates
-- 🌱 I’m currently learning AWS Cloud Practioner & Solutions Architect
+- 🌱 I’m currently Certified AWS Cloud Practitioner & Solutions Architect
 - 💞️ I’m looking to collaborate on all Tech Frontiers available
 - 📫 How to reach me kojootabil@gmail.com
 
